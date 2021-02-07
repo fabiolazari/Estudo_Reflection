@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudo_Reflection", "Estudo_Reflection\Estudo_Reflection.csproj", "{A1810C13-C99F-4DE0-B889-98AAB4489434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso2", "Curso2\Curso2.csproj", "{6B2C2FAB-EC87-4FA2-B057-E3E82105E2A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1810C13-C99F-4DE0-B889-98AAB4489434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1810C13-C99F-4DE0-B889-98AAB4489434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1810C13-C99F-4DE0-B889-98AAB4489434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1810C13-C99F-4DE0-B889-98AAB4489434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2C2FAB-EC87-4FA2-B057-E3E82105E2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2C2FAB-EC87-4FA2-B057-E3E82105E2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2C2FAB-EC87-4FA2-B057-E3E82105E2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2C2FAB-EC87-4FA2-B057-E3E82105E2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A4B94B-31A2-4402-8F34-CE8B4C6A7CE9}
+	EndGlobalSection
+EndGlobal

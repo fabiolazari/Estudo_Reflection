@@ -1,0 +1,7 @@
+C:\projetos\Estudo_Reflection\Curso2\bin\Debug\Curso2.exe.config
+C:\projetos\Estudo_Reflection\Curso2\bin\Debug\Curso2.exe
+C:\projetos\Estudo_Reflection\Curso2\bin\Debug\Curso2.pdb
+C:\projetos\Estudo_Reflection\Curso2\obj\Debug\Curso2.csprojAssemblyReference.cache
+C:\projetos\Estudo_Reflection\Curso2\obj\Debug\Curso2.csproj.CoreCompileInputs.cache
+C:\projetos\Estudo_Reflection\Curso2\obj\Debug\Curso2.exe
+C:\projetos\Estudo_Reflection\Curso2\obj\Debug\Curso2.pdb
